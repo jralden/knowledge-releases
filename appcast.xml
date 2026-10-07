@@ -3,12 +3,24 @@
     <channel>
         <title>Knowledge</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Wed, 07 Oct 2026 21:28:07 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.0.2/Knowledge-1.0.2.dmg" length="3133496" type="application/octet-stream" sparkle:edSignature="3tKYr2BPYAee/u5TmV5vzqBx4uziokYYlj3xg8bU2o2KSG8pHqpbDsDtITDe4gLsgMh8fz88+EBZFX+dVQk5AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.0.2/Knowledge10-9.delta" sparkle:deltaFrom="9" length="175262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YXyRlo1rZk3asM5F6sLWHxIhmyjSa7UwOjGGqdzLwEDS1i5Q0olVg/kOWBrsje6N0+rvMwrhJeJd+RudaYftCA=="/>
+                <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.0.2/Knowledge10-7.delta" sparkle:deltaFrom="7" length="197130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HoKjxOvYCRhPLYL4zHiAVD52IeAOp3goppAR+MqOcKJxXiNjb2Dvr64LRrEDgbQ3i+nh6RQBqNJ/YGpXIGS+DQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Wed, 07 Oct 2026 14:55:59 +0100</pubDate>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.0.1/Knowledge-1.0.1.dmg" length="3125358" type="application/octet-stream" sparkle:edSignature="xms62mhiEFTQb5RSn7e9xUZSbuI0oPPDRME7A7+Q6l84hkBIpCC/3MyBojrbtB7zjfY1xHS0xZrZMv4mGIvCDQ=="/>
+            <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.0.2/Knowledge-1.0.1.dmg" length="3125358" type="application/octet-stream" sparkle:edSignature="xms62mhiEFTQb5RSn7e9xUZSbuI0oPPDRME7A7+Q6l84hkBIpCC/3MyBojrbtB7zjfY1xHS0xZrZMv4mGIvCDQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.0.1/Knowledge9-7.delta" sparkle:deltaFrom="7" length="144510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dfBZKV79bhrjo81FN6NlRRQlx+gVLiCrJSz0BMX2VACk+SMuppkYnR2OsXpIh90jNMl3uxu7UYB5cpr8R3jMBg=="/>
             </sparkle:deltas>
@@ -19,7 +31,7 @@
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.0.1/Knowledge-1.0.dmg" length="3109914" type="application/octet-stream" sparkle:edSignature="x8vx1Ax8fyIiZ1aC1EoySXq8bdPo6DOQpKTWvF4WZeB5EPgcbpyg+Q8z0TDNWbISfLhRsXqIpD0+26Kiz/VdCA=="/>
+            <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.0.2/Knowledge-1.0.dmg" length="3109914" type="application/octet-stream" sparkle:edSignature="x8vx1Ax8fyIiZ1aC1EoySXq8bdPo6DOQpKTWvF4WZeB5EPgcbpyg+Q8z0TDNWbISfLhRsXqIpD0+26Kiz/VdCA=="/>
         </item>
     </channel>
 </rss>
