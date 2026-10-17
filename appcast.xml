@@ -3,27 +3,25 @@
     <channel>
         <title>Knowledge</title>
         <item>
-            <title>2.0.0</title>
-            <pubDate>Sat, 17 Oct 2026 18:37:34 +0100</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <title>2.1.0</title>
+            <pubDate>Sat, 17 Oct 2026 20:03:16 +0100</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Knowledge 2.0.0
+            <description sparkle:format="markdown"><![CDATA[# Knowledge 2.1.0
 
-Control relationship positioning directly with the mouse: move attachments, reconnect endpoints, add and move bends, slide right-angle segments, adjust curves and loops, and position labels independently. The inspector also provides precise numeric controls, route styles, and reset actions.
+- A full-width, resizable Claude panel with read-only discussion, image/PDF attachments, and reviewable change proposals.
+- Related assistant edits apply together as one undo step, with checks for stale responses and reliable cancellation.
+- Fit to Title uses measured text, compact margins, and balanced wrapping for round shapes.
+- Clearer first-node instructions and a larger default document window.
 
-- Clearer node titles and automatic title fitting, with manual sizing preserved.
-- Faster large-graph interaction and complete routed content in PNG/PDF exports.
-- A resizable, collapsible assistant panel; bounded startup discovery and reliable cancellation.
-- More reliable undo, external commands, validation, and export overwrite handling.
+**Claude setup:** download and extract `Knowledge-Claude-Setup-2.1.0.zip`, then follow its README. The assistant requires `uv` for setup and a signed-in Claude Code subscription; no API key is required. The editor works without this optional setup.
 
-**Document compatibility:** existing format-1 documents open normally. Saving writes format 2, which Knowledge 1.x cannot open. Keep a copy of documents that must remain usable in an older version.
+Existing saved node dimensions are preserved. Documents remain compatible with Knowledge 2.0; format-2 documents cannot be opened by Knowledge 1.x.
 
 Requires macOS 15 or later; supports Apple silicon and Intel Macs.
-
-Verification: 38 core tests, 5 app tests, 9 UI tests, and both application self-tests passed. Mouse interactions and light/dark appearance were checked. VoiceOver and complete-frame performance targets remain unverified.
 ]]></description>
-            <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v2.0.0/Knowledge-2.0.0.dmg" length="4185631" type="application/octet-stream" sparkle:edSignature="XfP4gg/prGok0bG3URjm3+l16zKhMHVIr5b6Yd3HXsC7QB4mvupyWLk0c7zX4xW7oVe5jKLgboiC9H+CUOZmAA=="/>
+            <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v2.1.0/Knowledge-2.1.0.dmg" length="4317182" type="application/octet-stream" sparkle:edSignature="cI4SKdGsqzXNRz3/W2MdSi6sofiIbbkExuF1lf4Sg+Fzbt03u3gh6j9h/CTph67svnHHZerXTJr2diMVvli1CQ=="/>
         </item>
     </channel>
 </rss>
