@@ -3,40 +3,27 @@
     <channel>
         <title>Knowledge</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Sun, 11 Oct 2026 11:23:13 +0100</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>2.0.0</title>
+            <pubDate>Sat, 17 Oct 2026 18:37:34 +0100</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.1.0/Knowledge-1.1.0.dmg" length="3449126" type="application/octet-stream" sparkle:edSignature="MmlERZjZ/n02WcWKEJZuYEEB5XxwDATqPmjqocqsBf2PggzDAbMrPLo974xLfrjnsFZ0UtV+axPa1dQiWBxADQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.1.0/Knowledge16-10.delta" sparkle:deltaFrom="10" length="506994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nhqZhMyYS/IZm+m5ezxY/nN8yVCe7zFuaY+i/DVbEnRQQ6LXx5vPMpELLXGZ7YOX1QCsUYmpJNIHm1d6FTmXBw=="/>
-                <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.1.0/Knowledge16-9.delta" sparkle:deltaFrom="9" length="528526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YtBvJQhexUSlRFP6G/NWAXB143b1LBEX3/GQa5o/LxiqNqwotM7NbRZHbhipflOzI66QkUN7a50z1ldjl9AXDQ=="/>
-                <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.1.0/Knowledge16-7.delta" sparkle:deltaFrom="7" length="537666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PgnSrqNv0EuODjvr/8A9QfQC/yljfGaAntjtnAuafuAB7DTIKCYZxiuAON0/q77hto97KWS+vvv0vYoeb7XaDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Wed, 07 Oct 2026 21:28:07 +0100</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.1.0/Knowledge-1.0.2.dmg" length="3133496" type="application/octet-stream" sparkle:edSignature="3tKYr2BPYAee/u5TmV5vzqBx4uziokYYlj3xg8bU2o2KSG8pHqpbDsDtITDe4gLsgMh8fz88+EBZFX+dVQk5AQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.0.2/Knowledge10-9.delta" sparkle:deltaFrom="9" length="175262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YXyRlo1rZk3asM5F6sLWHxIhmyjSa7UwOjGGqdzLwEDS1i5Q0olVg/kOWBrsje6N0+rvMwrhJeJd+RudaYftCA=="/>
-                <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.0.2/Knowledge10-7.delta" sparkle:deltaFrom="7" length="197130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HoKjxOvYCRhPLYL4zHiAVD52IeAOp3goppAR+MqOcKJxXiNjb2Dvr64LRrEDgbQ3i+nh6RQBqNJ/YGpXIGS+DQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Wed, 07 Oct 2026 14:55:59 +0100</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.1.0/Knowledge-1.0.1.dmg" length="3125358" type="application/octet-stream" sparkle:edSignature="xms62mhiEFTQb5RSn7e9xUZSbuI0oPPDRME7A7+Q6l84hkBIpCC/3MyBojrbtB7zjfY1xHS0xZrZMv4mGIvCDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v1.0.1/Knowledge9-7.delta" sparkle:deltaFrom="7" length="144510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dfBZKV79bhrjo81FN6NlRRQlx+gVLiCrJSz0BMX2VACk+SMuppkYnR2OsXpIh90jNMl3uxu7UYB5cpr8R3jMBg=="/>
-            </sparkle:deltas>
+            <description sparkle:format="markdown"><![CDATA[# Knowledge 2.0.0
+
+Control relationship positioning directly with the mouse: move attachments, reconnect endpoints, add and move bends, slide right-angle segments, adjust curves and loops, and position labels independently. The inspector also provides precise numeric controls, route styles, and reset actions.
+
+- Clearer node titles and automatic title fitting, with manual sizing preserved.
+- Faster large-graph interaction and complete routed content in PNG/PDF exports.
+- A resizable, collapsible assistant panel; bounded startup discovery and reliable cancellation.
+- More reliable undo, external commands, validation, and export overwrite handling.
+
+**Document compatibility:** existing format-1 documents open normally. Saving writes format 2, which Knowledge 1.x cannot open. Keep a copy of documents that must remain usable in an older version.
+
+Requires macOS 15 or later; supports Apple silicon and Intel Macs.
+
+Verification: 38 core tests, 5 app tests, 9 UI tests, and both application self-tests passed. Mouse interactions and light/dark appearance were checked. VoiceOver and complete-frame performance targets remain unverified.
+]]></description>
+            <enclosure url="https://github.com/jralden/knowledge-releases/releases/download/v2.0.0/Knowledge-2.0.0.dmg" length="4185631" type="application/octet-stream" sparkle:edSignature="XfP4gg/prGok0bG3URjm3+l16zKhMHVIr5b6Yd3HXsC7QB4mvupyWLk0c7zX4xW7oVe5jKLgboiC9H+CUOZmAA=="/>
         </item>
     </channel>
 </rss>
